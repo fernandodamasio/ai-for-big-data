@@ -18,6 +18,7 @@ Deep Learning:
 Reinforcement Learning:
 
 - Microsoft Airsim -> https://github.com/Microsoft/AirSim/blob/master/docs/reinforcement_learning.md
+- Smart Cab -> https://github.com/Rajat-dhyani/Smart-Cab
 
 Unsupervised Learning:
 
