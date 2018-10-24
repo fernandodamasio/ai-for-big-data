@@ -24,4 +24,4 @@ Unsupervised Learning:
 
 - Customer Segments -> https://github.com/darkdreamingdan/mlnd-customer-segments/blob/master/customer_segments.ipynb
 
-
+Teste.
